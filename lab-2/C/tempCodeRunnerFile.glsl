@@ -1,0 +1,1 @@
+    gl_Position = projection * modelview *translation*rotation*translation_inv* point;
